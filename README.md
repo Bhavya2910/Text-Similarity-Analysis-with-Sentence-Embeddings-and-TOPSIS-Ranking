@@ -1,6 +1,5 @@
-# 102116023_Topsis
 
-## Text Similarity Analysis with Sentence Embeddings and TOPSIS Ranking
+# Text Similarity Analysis with Sentence Embeddings and TOPSIS Ranking
 
 This project aims to explore text similarity using sentence embeddings from popular language models, including BERT, USE, Tf-Idf, RoBERTa, and XLNet. The goal is to evaluate their performance and select the optimal model using TOPSIS ranking. This serves as a practical application for measuring sentence similarity and choosing the most effective language model for your specific use case.
 
