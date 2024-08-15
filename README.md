@@ -13,3 +13,10 @@ This project aims to explore text similarity using sentence embeddings from popu
 
 ## Results
 Explore the cosine similarity table generated for different language models and witness the TOPSIS ranking results, helping you choose the most effective model for your text similarity tasks.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/d3b6690e-7c28-4198-a160-6df998f8c01f)
+
